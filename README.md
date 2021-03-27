@@ -1,5 +1,5 @@
 # NaNA-Tool-2
-This is a progect about learning "Fusion App" for personal use. It may not be useful to everyone， but maybe it can give you some advises or hints if you are learning how to use "Fusion App". Good Luck!
+This is a project about learning "Fusion App" for personal use. It may not be useful to everyone， but maybe it can give you some advises or hints if you are learning how to use "Fusion App". Good Luck!
 (这是个人学习“Fusion App”的记录工程，软件本身不适合于大部分人，但可能会对你自己的开发起到启发作用，祝好运!)
 
 Open source "fas" file can be seen in the "release" interface
